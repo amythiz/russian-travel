@@ -15,7 +15,7 @@
 
 **Ссылка на проект** 
 
-https://dacorm.github.io/russian-travel/
+https://amythiz.github.io/russian-travel/
 
 **Figma**
 
